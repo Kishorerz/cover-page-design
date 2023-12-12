@@ -132,7 +132,8 @@ create a folder under myproj named static and then inside the folder create a fi
 ```
 
 ## Output:
-![output](<Screenshot 2023-12-12 113250.png>)
+![output](https://github.com/Kishorerz/cover-page-design/assets/144451216/dd9ee3ed-3a1f-4b21-9ff0-f05442532d3b)
+
 
 ## Result:
 program runned successfully and got the output
